@@ -1,0 +1,41 @@
+"Reflectance data for temperate estuarine mud, measured in Elkhorh Slough 4 April 2000"	
+Record 11 begins with (free format) pairs of wavelength (in nm) and 	
+irradiance reflectance R = Eu/Ed (nondimensional) values.	
+Line 4 left blank for future use.
+Line 5 left blank for future use.	
+Line 6 left blank for future use.	
+Line 7 left blank for future use.	
+Line 8 left blank for future use.	
+wavelength   R	
+   (nm)   (nondimensional)	
+400	0.005
+410	0.005
+420	0.006
+430	0.007
+440	0.007
+450	0.009
+460	0.01
+470	0.011
+480	0.013
+490	0.015
+500	0.031356174
+510	0.031029095
+520	0.034151621
+530	0.037176163
+540	0.03862588
+550	0.041960286
+560	0.046257649
+570	0.050207849
+580	0.053346559
+590	0.054693451
+600	0.058485213
+610	0.058203017
+620	0.060885579
+630	0.065758146
+640	0.069442242
+650	0.07460506
+660	0.072453999
+670	0.069591909
+680	0.074614239
+690	0.091267149
+700	0.111263187	

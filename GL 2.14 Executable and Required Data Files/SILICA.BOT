@@ -1,0 +1,41 @@
+Reflectance data for temperate silica sand measured in Monterey Bay 15 June 01	
+Record 11 begins with (free format) pairs of wavelength (in nm) and 	
+irradiance reflectance R = Eu/Ed (nondimensional) values.	
+Line 4 left blank for future use.	
+Line 5 left blank for future use.	
+Line 6 left blank for future use.	
+Line 7left blank for future use.	
+Line 8left blank for future use.	
+wavelength   R	
+   (nm)   (nondimensional)	
+400	0.07
+410	0.089
+420	0.101831937
+430	0.107954052
+440	0.12338646
+450	0.133136337
+460	0.144348409
+470	0.158960076
+480	0.167839211
+490	0.167942157
+500	0.170115945
+510	0.176680571
+520	0.184585779
+530	0.193101578
+540	0.201650688
+550	0.21010489
+560	0.218037792
+570	0.224671901
+580	0.228692104
+590	0.228799835
+600	0.226227829
+610	0.22445383
+620	0.226180808
+630	0.228912406
+640	0.231846968
+650	0.236370797
+660	0.235
+670	0.233
+680	0.238
+690	0.25
+700	0.29

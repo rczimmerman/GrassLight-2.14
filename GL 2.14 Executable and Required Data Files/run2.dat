@@ -1,0 +1,18 @@
+test of 300 shoot density                                       
+
+"GrassLight Ver. "        2.14                                                            
+ "Run Input Conditions"
+ "Canopy ht (mm)="      300.
+ "Shoot density (shoots/m^2)="      300.
+ "Shoot area (m^2/shoot)="    0.0031
+ "Shoor:Root ratio="    3.1000
+ "Bending angle at 0 flow (deg) ="   10.0000
+ "Avg cosine Ed at top of canopy ="    0.8000
+ "Current speed (cm/s) ="    0.0000
+ "Seawater pH="    7.9000
+ "Water temperature (°C) ="   27.0000
+ "Photoperiod (h)="   14.5000
+ "Irradiance and water column IOPs from "lynn_5_5_2m.irr 
+ "Sediment reflectance from "silica.bot      
+ "Leaf IOPs from "thalassia.lop   
+

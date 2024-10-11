@@ -1,0 +1,5 @@
+   22.0000  LAT
+  -76.4000  LON
+ 185   12.0000    2.0000    0.0010    0.0010    0.0010
+JDAY      HOUR     DEPTH      CDOM   Chl a      Turb
+bahamas clear water parameters for optics class                 

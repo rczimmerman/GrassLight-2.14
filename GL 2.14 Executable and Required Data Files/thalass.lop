@@ -1,0 +1,47 @@
+Lee Stocking Island Thalassia leaves; data from 1998 through 2000		
+Reflectance (FACTION INCIDENT FLUX)is grand mean of all clean leaves of all ages		
+Absorption coefficient (NATURAL LOG) is grand mean of all clean leaves.
+"All sites except Rainbow Gardens Shallow May-98, Sparse Closure May-98, Channel Marker Sparse May-99, North Normans May-98 (no clean data for NN)"		
+See file "average thalassia clean absorbances & reflectances.xls" for details		
+Line 6 left blank for future use		
+Line 7 left blank for future use		
+Line 8 left blank for future use		
+Line 9 left blank for future use		
+Wavel (nm)	a (leaf-1)	R (leaf-1)
+400	2.462645	0.042723	
+410	2.305621	0.043365	
+420	2.190321	0.043842	
+430	2.147552	0.043778	
+440	2.120985	0.043431	
+450	2.022359	0.043715	
+460	1.949161	0.04383	
+470	1.932266	0.043223	
+480	1.907895	0.04289	
+490	1.840055	0.04357	
+500	1.642325	0.047286	
+510	1.339654	0.056731	
+520	1.058756	0.071662	
+530	0.880959	0.085375	
+540	0.806859	0.091744	
+550	0.772901	0.094169	
+560	0.768042	0.093015	
+570	0.811251	0.086292	
+580	0.874879	0.078978	
+590	0.914221	0.075203	
+600	0.931292	0.073543	
+610	0.968273	0.070091	
+620	1.026326	0.065929	
+630	1.044706	0.063899	
+640	1.114081	0.059481	
+650	1.278697	0.052579	
+660	1.392195	0.048767	
+670	1.636742	0.042727	
+680	1.717209	0.040828	
+690	1.227185	0.053511	
+700	0.724614	0.088732	
+710	0.493545	0.123094	
+720	0.384693	0.147649	
+730	0.336712	0.159779	
+740	0.318462	0.162835	
+750	0.311291	0.163382	
+

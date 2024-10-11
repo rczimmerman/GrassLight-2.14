@@ -1,0 +1,46 @@
+Monterey Bay Zostera leaves; data from 1998 through 2000		
+Reflectance (FRACTION INCIDENT FLUX)is grand mean of all clean leaves of all ages		
+Absorption coefficient (NATURAL LOG) is grand mean of all clean leaves.
+Line 4 left blank
+See file "Monterey Bay iop data from 97 and 98.xls" for details		
+Line 6 left blank for future use		
+Line 7 left blank for future use		
+Line 8 left blank for future use		
+Line 9 left blank for future use		
+Wavel (nm)	a (leaf-1)	R (leaf-1)
+400	2.733207	5.2132	
+410	2.743704	5.106	
+420	2.774595	4.95735	
+430	2.813361	4.8604	
+440	2.832489	4.7706	
+450	2.763514	4.7084	
+460	2.718053	4.6552	
+470	2.737495	4.586	
+480	2.721335	4.51835	
+490	2.663178	4.49735	
+500	2.383418	4.5084	
+510	1.865082	4.8651	
+520	1.388237	5.67115	
+530	1.135232	6.3869	
+540	1.063954	6.5825	
+550	1.040095	6.60875	
+560	1.049678	6.4449	
+570	1.142474	5.9766	
+580	1.263631	5.49195	
+590	1.359278	5.2178	
+600	1.419501	5.0055	
+610	1.481575	4.8393	
+620	1.580691	4.65575	
+630	1.622259	4.5655	
+640	1.792773	4.3606	
+650	2.182026	4.0631	
+660	2.373701	3.9569	
+670	2.645385	3.85775	
+680	2.7588	3.8443	
+690	1.973516	4.2658	
+700	1.016188	6.60635	
+710	0.606014	10.3187	
+720	0.440328	13.3215	
+730	0.360046	15.245	
+740	0.326713	16.1275	
+750	0.311682	16.6985	

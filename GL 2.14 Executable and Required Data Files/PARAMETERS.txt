@@ -1,0 +1,13 @@
+Param	Value
+Lat	3.80E+01
+Long	7.20E+01
+Depth	1.70E+00
+yfw	0.64E+00
+ysw	1.80E-01
+phifl	1.63E-02
+adturb	1.10E-01
+bturb	1.50E+00
+bb2b	1.39E-02
+phiexp	1.00E+00
+adexp	1.00E+00
+bpexp	1.00E+00

@@ -1,0 +1,5 @@
+   38.1973  LAT
+ -122.9350  LON
+ 172   12.0000    2.0000    0.1070    8.0000    4.0000
+JDAY      HOUR     DEPTH      CDOM   Chl a      Turb
+tomales bay summer upwelling 2 m water depth                    

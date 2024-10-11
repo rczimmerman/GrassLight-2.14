@@ -1,0 +1,41 @@
+Reflectance data for pure sand provided by Eric Louchard	
+and Pam Reid, for a dense seagrass patch at Lee Stocking	
+Island, Bahamas.  Data were were interpolated to 1 nm	
+from the original spectrometer-output data set they sent me and resampled to 10 nm intervals for this file.	
+Record 11 begins with (free format) pairs of wavelength (in nm) and 	
+irradiance reflectance R = Eu/Ed (nondimensional) values.	
+Line 7 left blank for future use.	
+Line 8 left blank for future use.	
+wavelength   R	
+   (nm)   (nondimensional)	
+400	0.177471811
+410	0.218006599
+420	0.228321139
+430	0.24932798
+440	0.270127037
+450	0.288625935
+460	0.304054336
+470	0.317094196
+480	0.336000657
+490	0.345533365
+500	0.360517427
+510	0.373744409
+520	0.384268575
+530	0.393712124
+540	0.40193931
+550	0.411449571
+560	0.419514042
+570	0.426460452
+580	0.432516419
+590	0.438370512
+600	0.44318533
+610	0.443833895
+620	0.443316237
+630	0.444156987
+640	0.448095863
+650	0.449394982
+660	0.436722521
+670	0.418738471
+680	0.421396441
+690	0.449214503
+700	0.478597365

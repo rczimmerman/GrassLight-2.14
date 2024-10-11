@@ -1,0 +1,9 @@
+0.0184     SG
+0.1042     SIGATRB
+0.010      STRB
+0.0040     BLTRB
+1.777      SIGBTRB
+0.5        ETA
+0.0159     BB2B	
+0.0237     APHST675
+0.0000     DUMMY

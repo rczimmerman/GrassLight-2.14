@@ -1,0 +1,5 @@
+ 0.300         Canopy Height, m
+  2.00         Water Depth, m
+  14.5         Photoperiod, h
+
+

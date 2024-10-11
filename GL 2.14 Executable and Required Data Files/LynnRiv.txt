@@ -1,0 +1,5 @@
+   36.9000  LAT
+  -76.1000  LON
+ 187   12.0000    2.0000    0.3950    5.0000    5.0000
+JDAY      HOUR     DEPTH      CDOM   Chl a      Turb
+lynnhaven river location data                                   
